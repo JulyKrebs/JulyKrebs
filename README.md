@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JulyKrebs
+- 💞️ I’m a Junior Recruiter @PIN AG based in Berlin
+- 👀 I’m currently looking for a Junior DevOps Engineer (m/w/d), (Senior) System Administrator (m/w/d) and a (Senior) IT Security and Network administrator (m/w/d)
+- 📫 How to reach me: july.krebs@pin-ag.de or apply on our homepage https://www.pin-ag.de/jobs-karriere
